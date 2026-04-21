@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Delete Account - Leaving The Leaf</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #111;
+    }
+    h1, h2 {
+      color: #111;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Account & Data Deletion – Leaving The Leaf</h1>
+
+  <p>If you would like your account and associated data deleted, please follow the steps below.</p>
+
+  <h2>How to request deletion</h2>
+  <p>Email: support@leavingtheleaf.app</p>
+  <p>Subject line: Account Deletion Request</p>
+
+  <h2>What will be deleted</h2>
+  <ul>
+    <li>Account information</li>
+    <li>Daily check-ins and progress data</li>
+    <li>Journal entries</li>
+    <li>Any associated in-app personal data</li>
+  </ul>
+
+  <h2>Data retention</h2>
+  <p>Requested account and associated user data will be permanently deleted within 30 days.</p>
+  <p>Some limited information may be retained where required for legal, fraud-prevention, or security purposes.</p>
+
+  <h2>Contact</h2>
+  <p>If you have any questions, contact: support@leavingtheleaf.app</p>
+</body>
+</html>
